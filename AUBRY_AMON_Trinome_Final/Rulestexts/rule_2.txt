@@ -1,0 +1,26 @@
+Preparazione:
+Posiziona il tabellone di gioco al centro del tavolo.
+Disporre i pezzi come mostrato nella figura 1.
+Il giocatore rosso inizia, poi i giocatori giocano a turno.
+
+Turno di gioco: 
+Al suo turno, un giocatore deve muovere uno dei suoi segnalini.
+- Le piramidi si muovono in diagonale di uno spazio.
+- I cubi si muovono verticalmente o orizzontalmente di uno spazio.
+- Le sfere si muovono verticalmente, orizzontalmente o diagonalmente di due caselle.
+
+Cattura:
+La cattura avviene per sostituzione, cioè con un pedone che si muove
+ in una casella occupata da un pedone avversario. 
+Attenzione, solo le piramidi e i cubi possono effettuare catture. 
+Le semisfere non possono effettuare la cattura, d'altra parte 
+possono essere catturate. Un pezzo catturato è definitivamente 
+eliminato dalla tavola di gioco
+				
+Fine del gioco :
+Prima possibilità: il primo giocatore che riesce a piazzare 3 
+pezzi diversi (una mezza sfera, un cubo e una piramide) 
+sulle 3 caselle rosse dell'avversario vince la partita.
+Seconda possibilità: se un giocatore riesce a catturare tutti 
+i pezzi di un tipo del suo avversario (per esempio tutti e 6 i cubi)
+ vince immediatamente la partita.

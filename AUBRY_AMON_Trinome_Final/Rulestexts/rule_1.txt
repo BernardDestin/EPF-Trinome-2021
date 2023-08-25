@@ -1,0 +1,31 @@
+Preparation:
+Place the game board in the centre of the table.
+Arrange the pieces as shown in figure 1.
+The red player starts, then the players take turns.
+
+Game turn: 
+On his turn, a player must move one of his pieces.
+- Pyramids move diagonally one space.
+- Cubes move vertically or horizontally one space.
+- Half-spheres move vertically, horizontally or diagonallyby two squares.
+- Special pyramids move an extra space when capturing a piece.
+- Special cubes have a joker: they can move out of a red space when aligned with two 
+pieces of their player.
+- Special half-sphere can only move backwards when every other movement is 
+blocked.
+
+Capture :
+Capture is done by replacement, i.e. by a piece moving into a square occupied 
+by an opponent's piece. 
+Note that only pyramids and cubes can capture. 
+Half-spheres cannot be captured, but they can be captured.
+A captured piece is permanently eliminated from the game board
+
+End of the game :
+First possibility: The first player who manages to place
+3 different pieces (a half-sphere, a cube and a pyramid) 
+on the 3 red squares of his opponent wins the game. When a piece moves on a 
+red spaces, it cannot move.
+Second possibility: If a player manages to capture all of his 
+opponent's pieces of one kind (e.g. all 6 cubes) 
+he wins the game immediately.

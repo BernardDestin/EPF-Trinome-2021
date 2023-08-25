@@ -1,0 +1,42 @@
+PREPARATION :
+Placez le plateau de jeu au centre de la table.
+Disposez les pions comme sur la figure 1.
+Le joueur rouge commence, puis les joueurs jouent à tour de rôle.
+
+Tour de jeu : 
+A son tour de jeu, un joueur doit déplacer l'un de ses pions.
+- Les pyramide se déplacent en diagonal d'une case.
+- Les Cubes se déplacent verticalement ou horizontalement d'une case.
+- Les sphères se déplacent verticalement, horizontalement ou en diagonale
+  de deux cases.
+
+En cas de partie spéciale, le plateau comporte aussi ces pions:
+- Les pyramides spéciales qui ont la possibilité, en plus de la capture 
+classique, de capturer un pion en sautant par-dessus
+- Une demi-sphère spéciale qui n’a pas le droit de reculer, sauf si 
+aucun autre mouvement n’est possible.
+- Un cube spécial qui a un joker. Celui-ci est activé automatiquement, dès que 
+2 autres pions de la même couleur se retrouvent sur la même diagonale que lui. 
+Il n’est pas activable dans la zone rouge de l’adversaire. Ce joker, une fois 
+activé, lui permet, de ne pas être immobilisé dans la zone rouge de l’adversaire. 
+Il peut en ressortir et y rentrer à sa guise.
+
+Capture :
+La capture se fait par remplacement, c'est à dire par un pion se déplaçant
+dans une case occupée par un pion adverse. 
+Attention, seules les pyramides et les cubes peuvent effectuer des captures. 
+Les demi-sphères ne peuvent pas effectuer de capture, par contre elles
+peuvent être capturées. Un pion capturé est définitivement éliminé du
+plateau de jeu.
+				
+Fin de partie :
+Première possibilité : Le premier joueur qui parvient à placer 3 différentes 
+pièces (une demi-sphère, un cube et une pyramide)
+surles 3 cases rouges de l'adversaire remporte la partie.
+Deuxième possibilité : Si un joueur parvient à capturer
+tous les pions d'une sorte de son adversaire (ex: les 6 cubes)
+il remporte la partie immédiatement.
+
+Attention:
+Une fois arrivée dans la zone rouge de l’adversaire, 
+une pièce est immobilisée et imprenable. 

@@ -1,0 +1,3 @@
+Les deux zip correspondent au même code source.
+
+Le fichier marqué NETBEANS est utilisable par le logiciel associé, tandis que le second est utilisable via Ecplise.
